@@ -44,4 +44,6 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem "paperclip", "~> 3.5.1"
+gem 'paperclip', '~> 3.5.1'
+gem 'foreman', '~> 0.63.0'
+gem 'aws-sdk', '~> 1.15.0'
